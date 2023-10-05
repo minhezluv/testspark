@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 05 20:30:17 ICT 2023
+@default-my-repo-E\:\\DE\ training\\Code\\testspark\\.repository/.lastUpdated=1696512617701
+E\:\\DE\ training\\Code\\testspark\\.repository/.error=Could not transfer artifact com.google.guava\:guava\:pom\:14.0.1 from/to my-repo (E\:\\DE training\\Code\\testspark\\.repository)\: Cannot access E\:\\DE training\\Code\\testspark\\.repository with type default using the available connector factories\: BasicRepositoryConnectorFactory
+https\://repo.maven.apache.org/maven2/.lastUpdated=1696512617781
